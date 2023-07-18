@@ -1,0 +1,15 @@
+
+
+.btn-primary {
+    background-color: rgb(246, 180, 122);
+    border-color: rgb(246, 180, 122) ;
+    color: #f5f5f5
+}
+
+.txt-primary span h1{
+    color: rgb(246, 180, 122);
+}
+
+h1 {
+    color: rgb(246, 180, 122)
+}
